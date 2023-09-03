@@ -52,7 +52,7 @@ See time estimates below.
 
 ## Current Progress
 
-- [x] FFI
+- [ ] FFI
 - [ ] FFII
 - [ ] FFIII
 - [ ] FFIV
