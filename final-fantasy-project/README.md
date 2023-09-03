@@ -49,20 +49,3 @@ See time estimates below.
 | FFXIII | Yes, XBOX 360       | 52 hours       |
 | FFXV   | Nope!               | 36 hours       |
 | FFXVI  | Yes                 | 40 hours       |
-
-## Current Progress
-
-- [ ] FFI
-- [ ] FFII
-- [ ] FFIII
-- [ ] FFIV
-- [ ] FFV
-- [ ] FFVI
-- [ ] FFVII
-- [ ] FFVIII
-- [ ] FFIX
-- [ ] FFX
-- [ ] FFXII
-- [ ] FFXIII
-- [ ] FFXV
-- [ ] FFXVI
