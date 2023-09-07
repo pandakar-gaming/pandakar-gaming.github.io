@@ -2,7 +2,7 @@
 
 This is a long-term goal to beat every mainline Final Fantasy!
 
-Some of these I have played, some I have not. My aim is to beat every mainline game in order.
+Some of these I have played, some I have not. My aim is to beat every mainline game in order. 
 
 This is a stream-centric project - all of these playthroughs will be streamed live at [twitch.tv/pandakar](https://www.twitch.tv/pandakar). I'll aim to also upload my playthroughs on YouTube for easier VOD access. 
 
@@ -22,30 +22,32 @@ There's a few reasons I am avoiding MMOs:
 
 ## Schedule
 
-This will be taking a while. In the beginning I'll be budgeting two days a week (Wednesday and Saturday). In the new year I hope to add in more days so we can crunch through some of the longer games.
+We'll be kicking this off at the beginning of October! Specifically starting Wednesday, October 4 @ 6:00PM PDT.
 
 Currently planned times:
 
 - Wednesday, starting at 6:00PM PDT for 4h
 - Saturday, starting at 4:00PM PDT for 6h
 
-The hope here is to wrap up **all** of the mainline games before the next FFXIV expansion, which is slated for Summer 2024.
+This will be taking a while. In the beginning I'll be budgeting two days a week (Wednesday and Saturday). In the new year I hope to add in more days so we can crunch through some of the longer games. The hope here is to wrap up **all** of the mainline games before the next FFXIV expansion, which is slated for Summer 2024.
 
-See time estimates below.
+See time estimates below for each game.
 
-| Game   | Have I Played This? | Estimated Time |
-|--------|---------------------|----------------|
-| FFI    | Nope!               | 16 hours       |
-| FFII   | Has anyone?         | 24 hours       |
-| FFIII  | Yes, DS version     | 24 hours       |
-| FFIV   | Yes, DS version     | 24 hours       |
-| FFV    | Nope!               | 34 hours       |
-| FFVI   | Somehow, nope       | 38 hours       |
-| FFVII  | Yes, never beat     | 44 hours       |
-| FFVIII | Yes, never beat     | 44 hours       |
-| FFIX   | Yes, PSX            | 40 hours       |
-| FFX    | Yes, PS2            | 50 hours       |
-| FFXII  | Only the intro      | 75 hours       |
-| FFXIII | Yes, XBOX 360       | 52 hours       |
-| FFXV   | Nope!               | 36 hours       |
-| FFXVI  | Yes                 | 40 hours       |
+| Game   | Have I Played This? | Estimated Time | Planned Version    | 
+|--------|---------------------|----------------|--------------------|
+| FFI    | Nope!               | 16 hours       | NES                |
+| FFII   | Has anyone?         | 24 hours       | GBA                |
+| FFIII  | Yes, DS version     | 24 hours       | NES w/ translation |
+| FFIV   | Yes, DS version     | 24 hours       | SNES               |
+| FFV    | Nope!               | 34 hours       | GBA                |
+| FFVI   | Somehow, nope       | 38 hours       | SNES               |
+| FFVII  | Yes, never beat     | 44 hours       | Steam              |
+| FFVIII | Yes, never beat     | 44 hours       | Steam*             |
+| FFIX   | Yes, PSX            | 40 hours       | Steam*             |
+| FFX    | Yes, PS2            | 50 hours       | Steam*             |
+| FFXII  | Only the intro      | 75 hours       | Steam*             |
+| FFXIII | Yes, XBOX 360       | 52 hours       | Steam              |
+| FFXV   | Nope!               | 36 hours       | Steam              |
+| FFXVI  | Yes                 | 40 hours       | PS5                |
+
+* some of these games I may actually be able to play on original hardware. Requires testing, but possibility exists.
