@@ -54,4 +54,4 @@ See time estimates below for each game.
 
 ## Related Tools
 
-Some of these games may inspire me to look deeper into their mechanics and/or make tools that will help me get through the game without having to spend time grinding monsters. Any such tools will be listed in [Miscellaneous Tools](/misc_tools).
+Some of these games may inspire me to look deeper into their mechanics and/or make tools that will help me get through the game without having to spend time grinding monsters. Any such tools will be listed in [Miscellaneous Tools](/final_fantasy_project/misc_tools).
