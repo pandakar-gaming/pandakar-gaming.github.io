@@ -33,21 +33,23 @@ This will be taking a while. In the beginning I'll be budgeting two days a week 
 
 See time estimates below for each game.
 
-| Game   | Have I Played This? | Estimated Time | Planned Version    | 
-|--------|---------------------|----------------|--------------------|
-| FFI    | Nope!               | 16 hours       | NES                |
-| FFII   | Has anyone?         | 24 hours       | GBA                |
-| FFIII  | Yes, DS version     | 24 hours       | NES w/ translation |
-| FFIV   | Yes, DS version     | 24 hours       | SNES               |
-| FFV    | Nope!               | 34 hours       | GBA                |
-| FFVI   | Somehow, nope       | 38 hours       | SNES               |
-| FFVII  | Yes, never beat     | 44 hours       | Steam              |
-| FFVIII | Yes, never beat     | 44 hours       | Steam*             |
-| FFIX   | Yes, PSX            | 40 hours       | Steam*             |
-| FFX    | Yes, PS2            | 50 hours       | Steam*             |
-| FFXII  | Only the intro      | 75 hours       | Steam*             |
-| FFXIII | Yes, XBOX 360       | 52 hours       | Steam              |
-| FFXV   | Nope!               | 36 hours       | Steam              |
-| FFXVI  | Yes                 | 40 hours       | PS5                |
+| Game   | Have I Played This? | Estimated Time | Planned Version    | Version Picked |
+|--------|---------------------|----------------|--------------------|----------------|
+| FFI    | Nope!               | 16 hours       | NES                | NES            |
+| FFII   | Has anyone?         | 24 hours       | GBA                | Pixel Remaster |
+| FFIII  | Yes, DS version     | 24 hours       | NES w/ translation | Pixel Remaster |
+| FFIV   | Yes, DS version     | 24 hours       | SNES               | DS             |
+| FFV    | Nope!               | 34 hours       | GBA                | TBD            |
+| FFVI   | Somehow, nope       | 38 hours       | SNES               | TBD            |
+| FFVII  | Yes, never beat     | 44 hours       | Steam              | TBD            |
+| FFVIII | Yes, never beat     | 44 hours       | Steam*             | TBD            |
+| FFIX   | Yes, PSX            | 40 hours       | Steam*             | TBD            |
+| FFX    | Yes, PS2            | 50 hours       | Steam*             | TBD            |
+| FFXII  | Only the intro      | 75 hours       | Steam*             | TBD            |
+| FFXIII | Yes, XBOX 360       | 52 hours       | Steam              | TBD            |
+| FFXV   | Nope!               | 36 hours       | Steam              | TBD            |
+| FFXVI  | Yes                 | 40 hours       | PS5                | TBD            |
 
 * some of these games I may actually be able to play on original hardware. Requires testing, but possibility exists.
+
+# 
