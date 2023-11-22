@@ -52,4 +52,6 @@ See time estimates below for each game.
 
 * some of these games I may actually be able to play on original hardware. Requires testing, but possibility exists.
 
-# 
+## Related Tools
+
+Some of these games may inspire me to look deeper into their mechanics and/or make tools that will help me get through the game without having to spend time grinding monsters. Any such tools will be listed in [Miscellaneous Tools](/misc_tools).
