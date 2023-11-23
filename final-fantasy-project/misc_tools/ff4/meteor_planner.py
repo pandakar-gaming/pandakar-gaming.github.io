@@ -40,6 +40,11 @@ def main():
     Note that all of this math is predated around seeing how much of a difference Shell would make.
     The claim is that Shell halves magic damage taken.
     From what I could see, Shell should affect all damage coming from Zeromus as it only casts spells.
+    ^
+    With respect to the above, what Shell does is likely to be that it adds to your MDEF stat.
+    Even if it doubled your MDEF, it's not a big factor in the damage calculation.
+    So it doesn't really do that much in the grand scheme of things.
+    The game really just wants you to be a higher level when fighting Zeromus :)
     """
     zeromus = Enemy("Zeromus", 68, 33)
     # Zeromus spell powers are pulled from here - https://finalfantasy.fandom.com/wiki/Zeromus_(Final_Fantasy_IV_3D)
@@ -53,24 +58,21 @@ def main():
     BIG_BANG = Spell("Big Bang", 315)
     FLARE = Spell("Flare", 160)
 
-    kain = Character("Kain", 56, 33, 16)
-    cecil = Character("Cecil", 57, 38, 22)
-    rydia = Character("Rydia", 56, 30, 23)
-    edge = Character("Edge", 55, 20, 16)
-    rosa = Character("Rosa", 57, 79, 28)
+    cecil = Character("Cecil", 62, 43, 33)
+    rydia = Character("Rydia", 60, 36, 23)
+    edge = Character("Edge", 59, 21, 13)
+    rosa = Character("Rosa", 62, 83, 30)
+    kain = Character("Kain", 62, 35, 29)
 
     characters = [kain, cecil, rydia, edge, rosa]
     for char in characters:
         print(char.name)
         meteor = magic_formula(zeromus, METEOR, char)
-        meteor_after_shell = (int(meteor[0] / 2), int(meteor[1] / 2))
-        print(F"\t{METEOR.name} - Before shell: [{meteor}] // After shell: [{meteor_after_shell}]")
+        print(F"\t{METEOR.name} - [{meteor}]")
         big_bang = magic_formula(zeromus, BIG_BANG, char)
-        big_bang_after_shell = (int(big_bang[0] / 2), int(big_bang[1] / 2))
-        print(F"\t{BIG_BANG.name} - Before shell: [{big_bang}] // After shell: [{big_bang_after_shell}]")
+        print(F"\t{BIG_BANG.name} - [{big_bang}]")
         flare = magic_formula(zeromus, FLARE, char)
-        flare_after_shell = (int(flare[0] / 2), int(flare[1] / 2))
-        print(F"\t{FLARE.name} - Before shell: [{flare}] // After shell: [{flare_after_shell}]")
+        print(F"\t{FLARE.name} - [{flare}]")
 
 if __name__ == "__main__":
     main()
